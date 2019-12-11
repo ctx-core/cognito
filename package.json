@@ -14,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/ctx-core.git"
+		"url": "https://github.com/ctx-core/cognito.git"
 	},
 	"keywords": [
 		"ctx-core",
@@ -24,9 +24,9 @@
 	"author": "Brian Takita",
 	"license": "Apache-2.0",
 	"bugs": {
-		"url": "https://github.com/ctx-core/ctx-core/issues"
+		"url": "https://github.com/ctx-core/cognito/issues"
 	},
-	"homepage": "https://github.com/ctx-core/ctx-core#readme",
+	"homepage": "https://github.com/ctx-core/cognito#readme",
 	"publishConfig": {
 		"access": "public"
 	},
