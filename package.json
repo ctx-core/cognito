@@ -1,7 +1,7 @@
 {
 	"name": "@ctx-core/cognito",
 	"description": "@ctx-core aws cognito bindings",
-	"version": "4.3.29",
+	"version": "4.3.30",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
