@@ -31,7 +31,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"amazon-cognito-identity-js": "^4.2.0",
+		"amazon-cognito-identity-js": "^4.2.1",
 		"node-fetch": "^3.0.0-beta.2"
 	},
 	"devDependencies": {
