@@ -35,7 +35,7 @@
 		"node-fetch": "^3.0.0-beta.2"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.6"
+		"typescript": "^3.9.7"
 	},
 	"gitHead": "3b06eb8e4dc020e464cbabdc85895ea5a4e61ffb"
 }
