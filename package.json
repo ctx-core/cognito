@@ -31,11 +31,11 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"amazon-cognito-identity-js": "^4.3.3",
+		"amazon-cognito-identity-js": "^4.3.4",
 		"node-fetch": "^3.0.0-beta.2"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.7"
+		"typescript": "^4.0.2"
 	},
 	"gitHead": "3b06eb8e4dc020e464cbabdc85895ea5a4e61ffb"
 }
