@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "4.3.60",
+	"version": "5.0.0",
 	"description": "@ctx-core aws cognito bindings",
 	"main": "./index.js",
 	"module": "./index.js",
