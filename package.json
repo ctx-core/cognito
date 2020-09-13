@@ -2,6 +2,21 @@
 	"name": "@ctx-core/cognito",
 	"version": "5.0.4",
 	"description": "@ctx-core aws cognito bindings",
+	"keywords": [
+		"ctx-core",
+		"aws",
+		"cognito"
+	],
+	"homepage": "https://github.com/ctx-core/cognito#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/cognito/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/cognito.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,32 +24,17 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/cognito.git"
-	},
-	"keywords": [
-		"ctx-core",
-		"aws",
-		"cognito"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/cognito/issues"
-	},
-	"homepage": "https://github.com/ctx-core/cognito#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
 		"amazon-cognito-identity-js": "^4.4.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "938c178c6272645cd549be218f2ca32431f39d5a"
 }
