@@ -1,1 +1,1 @@
-export declare function confirmRegistration(Username: string, code: string): Promise<any>;
+export declare function confirmRegistration(Username: string, code: string): Promise<unknown>;

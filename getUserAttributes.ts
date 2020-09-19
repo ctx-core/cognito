@@ -1,5 +1,12 @@
 import type { CognitoUser, CognitoUserAttribute } from 'amazon-cognito-identity-js'
-import { promisify } from 'util'
 export async function getUserAttributes(user:CognitoUser):Promise<CognitoUserAttribute[]> {
-	return promisify(user.getUserAttributes.bind(user))()
+	return new Promise((resolve, reject)=>{
+		user.getUserAttributes((err, result)=>{
+			if (err) {
+				reject(err)
+				return
+			}
+			resolve(result)
+		})
+	})
 }
