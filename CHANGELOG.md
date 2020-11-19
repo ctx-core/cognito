@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 6.0.10
+
+### Patch Changes
+
+- fix: typescript build
+
 ## 6.0.9
 
 ### Patch Changes

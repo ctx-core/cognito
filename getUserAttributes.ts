@@ -6,7 +6,7 @@ export async function getUserAttributes(user:CognitoUser):Promise<CognitoUserAtt
 				reject(err)
 				return
 			}
-			resolve(result)
+			resolve(result as CognitoUserAttribute[])
 		})
 	})
 }

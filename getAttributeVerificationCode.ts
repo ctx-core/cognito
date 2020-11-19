@@ -4,7 +4,7 @@ export async function getAttributeVerificationCode(user:CognitoUser, inputVerifi
 	return new Promise((resolve, reject)=>{
 		user.getAttributeVerificationCode('email', {
 			onSuccess() {
-				resolve()
+				resolve(null)
 			},
 			onFailure(err) {
 				reject(err.message || JSON.stringify(err))
