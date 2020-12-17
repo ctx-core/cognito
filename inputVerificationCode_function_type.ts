@@ -1,2 +1,4 @@
 export type inputVerificationCode_function_type = (data:any)=>void
-export type Function__inputVerificationCode = inputVerificationCode_function_type
+export {
+	inputVerificationCode_function_type as Function__inputVerificationCode
+}

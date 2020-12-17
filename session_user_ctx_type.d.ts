@@ -3,4 +3,4 @@ export interface session_user_ctx_type {
     user: CognitoUser;
     session: CognitoUserSession;
 }
-export declare type ctx__user__session = session_user_ctx_type;
+export { session_user_ctx_type as ctx__user__session };
