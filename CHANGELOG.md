@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 6.1.2
+
+### Patch Changes
+
+- using export as instead of export const
+
 ## 6.1.1
 
 ### Patch Changes
