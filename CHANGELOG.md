@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 6.1.3
+
+### Patch Changes
+
+- - .rush
+
 ## 6.1.2
 
 ### Patch Changes
