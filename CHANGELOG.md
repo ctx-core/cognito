@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 7.0.0
+
+### Major Changes
+
+- src directory
+
 ## 6.1.5
 
 ### Patch Changes
