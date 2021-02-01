@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 7.0.1
+
+### Patch Changes
+
+- fix: remove export type aliases causing build issues
+
 ## 7.0.0
 
 ### Major Changes
