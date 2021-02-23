@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 7.0.6
+
+### Patch Changes
+
+- typescript: ^4.1.5 -> ^4.2.2
+
 ## 7.0.5
 
 ### Patch Changes
