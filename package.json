@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "7.0.7",
+	"version": "7.0.8",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"amazon-cognito-identity-js": "^4.5.11"
+		"amazon-cognito-identity-js": "^4.5.12"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.2"
