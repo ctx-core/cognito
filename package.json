@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "7.0.14",
+	"version": "7.0.15",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",

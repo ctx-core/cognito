@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 7.0.15
+
+### Patch Changes
+
+- version bump
+
 ## 7.0.14
 
 ### Patch Changes
