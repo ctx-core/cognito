@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 7.0.14
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 7.0.13
 
 ### Patch Changes
