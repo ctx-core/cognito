@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 7.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 7.0.19
 
 ### Patch Changes
