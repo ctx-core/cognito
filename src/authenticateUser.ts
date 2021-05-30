@@ -1,14 +1,14 @@
 import { AuthenticationDetails, CognitoUserSession } from 'amazon-cognito-identity-js'
-import type { session_user_ctx_type } from './session_user_ctx_type'
-import { _cognito_user } from './_cognito_user'
-export async function authenticateUser(Username:string, Password:string):Promise<session_user_ctx_type> {
-	const AuthenticationDetails__ = new AuthenticationDetails({
+import type { session_user_ctx_T } from './session_user_ctx_T'
+import { cognito_user_ } from './cognito_user_'
+export async function authenticateUser(Username:string, Password:string):Promise<session_user_ctx_T> {
+	const AuthenticationDetails_i = new AuthenticationDetails({
 		Username,
 		Password,
 	})
-	const user = _cognito_user(Username)
+	const user = cognito_user_(Username)
 	return new Promise((resolve, reject)=>{
-		user.authenticateUser(AuthenticationDetails__, {
+		user.authenticateUser(AuthenticationDetails_i, {
 			onSuccess(session:CognitoUserSession) {
 				resolve({ session, user })
 			},
