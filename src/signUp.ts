@@ -3,15 +3,15 @@ import { Pool } from './Pool'
 import type { CognitoUserAttribute } from 'amazon-cognito-identity-js'
 const signUp_ = promisify(Pool.signUp.bind(Pool))
 export async function signUp(
-	username: string,
-	password: string,
-	attributes_a1: CognitoUserAttribute[],
-	validation_data: CognitoUserAttribute[],
+	username:string,
+	password:string,
+	attributes_a:CognitoUserAttribute[],
+	validation_data:CognitoUserAttribute[],
 ) {
 	return await signUp_(
 		username,
 		password,
-		attributes_a1,
+		attributes_a,
 		validation_data,
 	)
 }
