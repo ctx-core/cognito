@@ -1,1 +1,0 @@
-{"version":3,"file":"updateAttributes.js","sourceRoot":"","sources":["../updateAttributes.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,SAAS,EAAE,MAAM,MAAM,CAAA;AAChC,MAAM,CAAC,KAAK,UAAU,gBAAgB,CAAC,IAAgB,EAAE,WAAuC;IAC/F,MAAM,iBAAiB,GAAG,SAAS,CAAC,IAAI,CAAC,gBAAgB,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC,CAAA;IACrE,OAAO,MAAM,iBAAiB,CAAC,WAAW,CAAC,CAAA;AAC5C,CAAC"}

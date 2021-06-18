@@ -1,1 +1,0 @@
-{"version":3,"file":"globalSignOut.js","sourceRoot":"","sources":["../globalSignOut.ts"],"names":[],"mappings":"AACA,MAAM,CAAC,KAAK,UAAU,aAAa,CAAC,IAAgB;IACnD,OAAO,IAAI,OAAO,CAAC,CAAC,OAAO,EAAE,MAAM,EAAC,EAAE;QACrC,IAAI,CAAC,aAAa,CAAC;YAClB,SAAS,EAAE,OAAO;YAClB,SAAS,EAAE,MAAM;SACjB,CAAC,CAAA;IACH,CAAC,CAAC,CAAA;AACH,CAAC"}
