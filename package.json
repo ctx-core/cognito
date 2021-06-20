@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "9.0.3",
+	"version": "9.0.4",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -25,7 +25,7 @@
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
-		"prepublishOnly": "npm run compile"
+		"prepare": "npm run build"
 	},
 	"dependencies": {
 		"amazon-cognito-identity-js": "^5.0.3"
