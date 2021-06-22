@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 9.0.7
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+
 ## 9.0.6
 
 ### Patch Changes
