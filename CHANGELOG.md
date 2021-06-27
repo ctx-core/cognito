@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 9.0.9
+
+### Patch Changes
+
+- dist directory
+
 ## 9.0.8
 
 ### Patch Changes
