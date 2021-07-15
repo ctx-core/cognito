@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 9.0.11
 
 ### Patch Changes
