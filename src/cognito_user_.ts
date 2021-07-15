@@ -1,5 +1,5 @@
 import { CognitoUser, ICognitoUserData } from 'amazon-cognito-identity-js'
-import { Pool } from './Pool'
+import { Pool } from './Pool.js'
 export function cognito_user_(Username:string) {
 	return new CognitoUser(UserData_(Username))
 }
