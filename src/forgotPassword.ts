@@ -1,5 +1,7 @@
 import type { CognitoUser } from 'amazon-cognito-identity-js'
-export async function forgotPassword(user:CognitoUser, inputVerificationCode:(data:any)=>void) {
+export async function forgotPassword(
+	user:CognitoUser, inputVerificationCode:(data:any)=>void
+):Promise<any> {
 	return new Promise((resolve, reject)=>{
 		user.forgotPassword({
 			onSuccess(data) {
