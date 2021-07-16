@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 10.0.9
 
 ### Patch Changes
