@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 10.0.3
 
 ### Patch Changes
