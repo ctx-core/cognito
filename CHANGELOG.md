@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.19
+
+### Patch Changes
+
+- amazon-cognito-identity-js: ^5.1.0 -> ^5.1.1
+
 ## 10.0.18
 
 ### Patch Changes
