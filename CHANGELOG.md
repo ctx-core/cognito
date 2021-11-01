@@ -1,5 +1,12 @@
 # @ctx-core/cognito
 
+## 10.0.22
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- amazon-cognito-identity-js: ^5.2.0 -> ^5.2.2
+
 ## 10.0.21
 
 ### Patch Changes
