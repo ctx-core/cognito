@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.23
+
+### Patch Changes
+
+- compile using swc
+
 ## 10.0.22
 
 ### Patch Changes
