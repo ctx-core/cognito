@@ -1,6 +1,6 @@
-export * from './cognito_user_.js'
 export * from './authenticateUser.js'
 export * from './changePassword.js'
+export * from './cognito_user_.js'
 export * from './confirmRegistration.js'
 export * from './deleteAttributes.js'
 export * from './deleteUser.js'

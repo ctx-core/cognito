@@ -1,6 +1,6 @@
-import { promisify } from 'util'
 import type { CognitoUserAttribute } from 'amazon-cognito-identity-js'
-import { Pool } from './Pool'
+import { promisify } from 'util'
+import { Pool } from './Pool.js'
 const signUp_ = promisify(Pool.signUp.bind(Pool))
 export async function signUp(
 	username:string,
