@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "10.0.24",
+	"version": "10.0.25",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -40,8 +40,8 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.51",
-		"@swc/core": "^1.2.108",
-		"typescript": "^4.4.4"
+		"@swc/core": "^1.2.110",
+		"typescript": "^4.5.2"
 	},
 	"publishConfig": {
 		"access": "public",
