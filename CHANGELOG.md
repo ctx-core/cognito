@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.31
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 10.0.30
 
 ### Patch Changes
