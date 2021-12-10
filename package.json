@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "10.0.31",
+	"version": "10.0.32",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,6 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"module": "./dist/index.js",
 	"types": "./src/index.ts",
 	"exports": {
 		".": {

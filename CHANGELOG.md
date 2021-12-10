@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.32
+
+### Patch Changes
+
+- package.json: - module
+
 ## 10.0.31
 
 ### Patch Changes
