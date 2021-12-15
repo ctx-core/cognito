@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.33
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 10.0.32
 
 ### Patch Changes
