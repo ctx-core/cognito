@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.35
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 10.0.34
 
 ### Patch Changes
