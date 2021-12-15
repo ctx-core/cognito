@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.34
+
+### Patch Changes
+
+- fix: package.json: exports
+
 ## 10.0.33
 
 ### Patch Changes
