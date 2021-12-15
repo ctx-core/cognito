@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.36
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 10.0.35
 
 ### Patch Changes
