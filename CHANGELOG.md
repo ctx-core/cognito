@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.39
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 10.0.38
 
 ### Patch Changes
