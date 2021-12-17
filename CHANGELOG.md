@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.38
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 10.0.37
 
 ### Patch Changes
