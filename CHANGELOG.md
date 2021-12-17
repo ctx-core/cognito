@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.37
+
+### Patch Changes
+
+- fix: build
+
 ## 10.0.36
 
 ### Patch Changes
