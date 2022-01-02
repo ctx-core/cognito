@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.41
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 10.0.40
 
 ### Patch Changes
