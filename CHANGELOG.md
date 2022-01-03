@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.42
+
+### Patch Changes
+
+- version bump
+
 ## 10.0.41
 
 ### Patch Changes
