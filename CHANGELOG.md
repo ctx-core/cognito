@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.44
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 10.0.43
 
 ### Patch Changes
