@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"amazon-cognito-identity-js": "^5.2.7"
+		"amazon-cognito-identity-js": "^5.2.8"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
