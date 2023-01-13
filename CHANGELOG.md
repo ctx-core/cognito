@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.54
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 10.0.53
 
 ### Patch Changes
