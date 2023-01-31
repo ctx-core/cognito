@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.0.56
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 10.0.55
 
 ### Patch Changes
