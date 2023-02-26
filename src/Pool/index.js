@@ -1,12 +1,13 @@
 import { CognitoUserPool } from 'amazon-cognito-identity-js'
+import { import_meta_env_ } from '@ctx-core/env'
 export const Pool = new CognitoUserPool(pool_data_())
 /**
  * @returns {{UserPoolId: string, ClientId: string}}
  */
 export function pool_data_() {
 	return {
-		UserPoolId: process.env.COGNITO_USER_POOL_ID,
-		ClientId: process.env.COGNITO_APP_CLIENT_ID
+		UserPoolId: import_meta_env_().COGNITO_USER_POOL_ID,
+		ClientId: import_meta_env_().COGNITO_APP_CLIENT_ID
 	}
 }
 export {
