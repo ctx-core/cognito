@@ -1,4 +1,4 @@
 import type { ClientMetadata } from 'amazon-cognito-identity-js'
 export declare function resendConfirmationCode(
-	clientMetaData?: ClientMetadata
+	clientMetaData?:ClientMetadata
 ):Promise<any>

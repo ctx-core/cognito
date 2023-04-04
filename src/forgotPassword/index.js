@@ -1,9 +1,12 @@
 /**
- * @param user{module:amazon-cognito-identity-js.CognitoUser}
- * @param inputVerificationCode{(data:any)=>void}
+ * @param {module:amazon-cognito-identity-js.CognitoUser}user
+ * @param {(data:any)=>void}inputVerificationCode
  * @returns {Promise<any>}
  */
-export async function forgotPassword(user, inputVerificationCode) {
+export async function forgotPassword(
+	user,
+	inputVerificationCode
+) {
 	return new Promise((resolve, reject)=>{
 		user.forgotPassword({
 			onSuccess(data) {

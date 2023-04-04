@@ -1,5 +1,5 @@
 /**
- * @param user{module:amazon-cognito-identity-js.CognitoUser}
+ * @param {module:amazon-cognito-identity-js.CognitoUser}user
  * @returns {Promise<string>}
  */
 export async function globalSignOut(user) {

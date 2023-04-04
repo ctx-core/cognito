@@ -1,5 +1,5 @@
-import { CognitoUserPool } from 'amazon-cognito-identity-js'
 import { import_meta_env_ } from '@ctx-core/env'
+import { CognitoUserPool } from 'amazon-cognito-identity-js'
 export const Pool = new CognitoUserPool(pool_data_())
 /**
  * @returns {{UserPoolId: string, ClientId: string}}

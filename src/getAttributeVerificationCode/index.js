@@ -1,10 +1,11 @@
 /**
- * @param user{module:amazon-cognito-identity-js.CognitoUser}
- * @param inputVerificationCode{import('../_types').inputVerificationCode_fn_T}
+ * @param {module:amazon-cognito-identity-js.CognitoUser}user
+ * @param {import('../_types').inputVerificationCode_fn_T}inputVerificationCode
  * @returns {Promise<null>}
  */
 export async function getAttributeVerificationCode(
-	user, inputVerificationCode
+	user,
+	inputVerificationCode
 ) {
 	return new Promise((resolve, reject)=>{
 		user.getAttributeVerificationCode('email', {

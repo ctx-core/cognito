@@ -1,7 +1,7 @@
 import { CognitoUser } from 'amazon-cognito-identity-js'
-import { Pool } from '../Pool.js'
+import { Pool } from '../Pool/index.js'
 /**
- * @param Username{string}
+ * @param {string}Username
  * @returns {module:amazon-cognito-identity-js.CognitoUser}
  * @private
  */

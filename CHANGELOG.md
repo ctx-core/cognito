@@ -1,5 +1,12 @@
 # @ctx-core/cognito
 
+## 10.1.3
+
+### Patch Changes
+
+- cognito*user*: fix: import
+- jsdoc: fix: @param definitions
+
 ## 10.1.2
 
 ### Patch Changes
