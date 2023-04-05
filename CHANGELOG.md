@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.1.4
+
+### Patch Changes
+
+- dependencies: fix: @ctx-core/env
+
 ## 10.1.3
 
 ### Patch Changes
