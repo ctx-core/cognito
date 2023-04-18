@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.2.63",
+		"@ctx-core/env": "^17.2.75",
 		"amazon-cognito-identity-js": "^6.2.0"
 	},
 	"devDependencies": {
