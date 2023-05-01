@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.1.36
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.87 -> ^17.2.88
+
 ## 10.1.35
 
 ### Patch Changes
