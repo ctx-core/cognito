@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "10.1.36",
+	"version": "10.1.37",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.2.88",
+		"@ctx-core/env": "^17.2.89",
 		"amazon-cognito-identity-js": "^6.2.0"
 	},
 	"devDependencies": {
