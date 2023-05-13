@@ -1,5 +1,13 @@
 # @ctx-core/cognito
 
+## 10.1.40
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.91 -> ^17.2.92
+- Updated dependencies
+  - @ctx-core/env@17.2.93
+
 ## 10.1.39
 
 ### Patch Changes
