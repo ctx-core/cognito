@@ -3,7 +3,7 @@ import { cognito_user_ } from '../cognito_user_/index.js'
 /**
  * @param {string}Username
  * @param {string}Password
- * @returns {Promise<import('../_types').session_user_ctx_T>}
+ * @returns {Promise<import('../_types/index.js').session_user_ctx_T>}
  */
 export async function authenticateUser(
 	Username,

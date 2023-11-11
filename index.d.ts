@@ -1,3 +1,4 @@
+export * from './_types/index.js'
 export * from './authenticateUser/index.js'
 export * from './changePassword/index.js'
 export * from './cognito_user_/index.js'

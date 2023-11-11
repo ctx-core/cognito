@@ -1,6 +1,6 @@
 /**
  * @param {module:amazon-cognito-identity-js.CognitoUser}user
- * @param {import('../_types').inputVerificationCode_fn_T}inputVerificationCode
+ * @param {import('../_types/index.js').inputVerificationCode_fn_T}inputVerificationCode
  * @returns {Promise<null>}
  */
 export async function getAttributeVerificationCode(

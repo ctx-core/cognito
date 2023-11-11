@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "10.1.100",
+	"version": "10.2.0",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -18,9 +18,28 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./lib/index.d.ts",
+	"files": [
+		"*.d.ts",
+		"./_types",
+		"./authenticateUser",
+		"./changePassword",
+		"./cognito_user_",
+		"./confirmRegistration",
+		"./deleteAttributes",
+		"./deleteUser",
+		"./forgotPassword",
+		"./getAttributeVerificationCode",
+		"./getUserAttributes",
+		"./globalSignOut",
+		"./Pool",
+		"./resendConfirmationCode",
+		"./signOut",
+		"./signUp",
+		"./updateAttributes"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./lib/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,7 +52,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.3.19",
+		"@ctx-core/env": "^17.4.0",
 		"amazon-cognito-identity-js": "^6.3.7"
 	},
 	"devDependencies": {
@@ -47,6 +66,5 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js",
 	"sideEffects": false
 }
