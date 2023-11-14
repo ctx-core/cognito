@@ -1,5 +1,13 @@
 # @ctx-core/cognito
 
+## 10.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/env@17.4.2
+
 ## 10.2.1
 
 ### Patch Changes
