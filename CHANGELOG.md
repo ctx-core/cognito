@@ -1,5 +1,13 @@
 # @ctx-core/cognito
 
+## 10.2.9
+
+### Patch Changes
+
+- tsx: ^4.1.2 -> ^4.1.3
+- Updated dependencies
+  - @ctx-core/env@17.4.9
+
 ## 10.2.8
 
 ### Patch Changes
