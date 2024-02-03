@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.2.130
+
+### Patch Changes
+
+- ctx-core: ^5.36.4 -> ^5.37.0
+
 ## 10.2.129
 
 ### Patch Changes
