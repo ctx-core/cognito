@@ -1,5 +1,13 @@
 # @ctx-core/cognito
 
+## 10.2.160
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 10.2.159
 
 ### Patch Changes

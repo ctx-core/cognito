@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "10.2.159",
+	"version": "10.2.160",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -16,7 +16,11 @@
 		"url": "https://github.com/ctx-core/cognito.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-cognito@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -56,7 +60,7 @@
 	},
 	"dependencies": {
 		"amazon-cognito-identity-js": "^6.3.12",
-		"ctx-core": "^6.6.0"
+		"ctx-core": "^6.6.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
