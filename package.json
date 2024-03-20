@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/cognito",
-	"version": "10.2.160",
+	"version": "10.2.161",
 	"description": "@ctx-core aws cognito bindings",
 	"keywords": [
 		"ctx-core",
@@ -60,7 +60,7 @@
 	},
 	"dependencies": {
 		"amazon-cognito-identity-js": "^6.3.12",
-		"ctx-core": "^6.6.1"
+		"ctx-core": "^6.6.2"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
