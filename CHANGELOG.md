@@ -1,5 +1,11 @@
 # @ctx-core/cognito
 
+## 10.2.199
+
+### Patch Changes
+
+- ctx-core: ^7.2.20 -> ^7.2.21
+
 ## 10.2.198
 
 ### Patch Changes
