@@ -1,5 +1,27 @@
 # @ctx-core/cognito
 
+## 10.2.211
+
+### Patch Changes
+
+- c8: ^10.1.3 -> ^11.0.0
+- amazon-cognito-identity-js: ^6.3.15 -> ^6.3.16
+- check-dts: ^0.8.2 -> ^0.9.0
+- tsx: ^4.20.6 -> ^4.21.0
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@7.2.33
+
 ## 10.2.210
 
 ### Patch Changes
